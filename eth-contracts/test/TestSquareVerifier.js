@@ -38,7 +38,7 @@ contract('TestSquareVerifier', accounts => {
 
         it('should verify', async function () { 
            let _verification = await this.contract.verifyTx(proof.a, proof.b, proof.c, input);
-           assert.equal(_verification, true, "Test verification with correct proof");
+           assert.equal(_verification, true, "Test verification did not pass with correct proof");
      	});
 
 
@@ -47,7 +47,7 @@ contract('TestSquareVerifier', accounts => {
         	let cheat = input;
 			cheat[cheat.length-1] = cheat[cheat.length-1].replace(/[01]$/, cheat[cheat.length-1][65] == '1' ? '0': '1');
             let _verification2 = await this.contract.verifyTx(proof.a, proof.b, proof.c, cheat);
-            assert.equal(_verification2, false, "Test verification with incorrect proof");
+            assert.equal(_verification2, false, "Test verification passed with incorrect proof");
         });
     })
 })
