@@ -189,6 +189,113 @@ var proof3 = {
       "0x2903b47750bb024e03c6c3cca7c48655d6b63f0b48437bf0fbf8be802b721a29"
     ]
   };
+
+  var proof6 = {
+    "a": [
+      "0x0049531a580126e11e6e0ab71b7aac6995e4658988117f9aa2413c28d37215fb",
+      "0x174c35efde39bdfe22e3e6ed3ff8112f1283e65604304ebb1d6956925202a0df"
+    ],
+    "b": [
+      [
+        "0x1d04caf4431601c95241021ef8712f56d1a63fac8771ccdf11dc6829cae5ad9f",
+        "0x1e68b8b368e5f750af5f7a10857a891cf36dba1f6820bcaa08dbdd7aa1e7d4d6"
+      ],
+      [
+        "0x082fea326b4119a7ee22fc0a0ba524dd076aa6653f5a82372e288a46bb8a10b2",
+        "0x21f645f9056ce2a5364ce33a175c0099de2ec10068ebc2046b5943b2bd3f64be"
+      ]
+    ],
+    "c": [
+      "0x2e3d0a3aa95f4c5731bd9fb339d6ae6ad4e01d9a9734917cf4ec80e85057ef89",
+      "0x17f1f8fad79a76f45d0b2bd565edd84baedb31f412bef11d6cf82b8843b0cf4e"
+    ]
+  };
+
+  var proof7 = {
+    "a": [
+      "0x2cdf2d470bb3e894bd4f3d4822e20fb123f07650e26ed619cdb0a5266b0401da",
+      "0x2cb10cf37ca0058ffed0c84a875263fc15233fa20d47b08035c8ba011aa22568"
+    ],
+    "b": [
+      [
+        "0x2d1a52552730b4f9114e6c87f035b61089ebc01d0716d4b72ada1dc63c8fae80",
+        "0x2e6c95231dc108dde418a4462603160601da6add524e9c3727287d2c74e7857a"
+      ],
+      [
+        "0x27c2f92f49532e02ac094cd8611025cdca0c2bd4dd6463a0811c95f382c6b768",
+        "0x1859c19352741a9659e0ab295d0ea7960299335a6b70ff87377c8e2bbe2507e5"
+      ]
+    ],
+    "c": [
+      "0x1c6380327b4012e04dffaf299ec6841be5431a2d30deb7f2d3622b54ae3d243f",
+      "0x03079f59a625968f3beaae4d571f6231fda0c969cfcb9f60ab27e71caa73eb22"
+    ]
+  };
+
+  var proof8 = {
+    "a": [
+      "0x117f17751fc317a17a2f703ef9d7d6a4d665a8b1b2dfa6af834630d17d9ee7c1",
+      "0x15f42a08451cd9f32975438d493b85f705d991feff22d708f4704d65760b3976"
+    ],
+    "b": [
+      [
+        "0x2d0fc39433f0d37ed89efecc4306ea1ac81468f39fe8b52d619447c8f897dfea",
+        "0x0ed46c6a928ddca89eb57caf569ec42343c7a703dda9914a938254008b6e0dee"
+      ],
+      [
+        "0x0c7e4e3c1000ecf693a04ce3d650ba7e8d278983730eac6d58822ab94de201fe",
+        "0x0e8b53ea19500b75d30241eba9e94ad8596b154ed6ff207981095212d949b373"
+      ]
+    ],
+    "c": [
+      "0x208d94a3de659c06ec29a1a097e72d41c7ff736d1067c02431f2cb188c8cb839",
+      "0x007ce7b4d535256bec6c0880b941d94c47369638fcb312eeddd2e0c76af1b66b"
+    ]
+  };
+
+  var proof9 = {
+    "a": [
+      "0x204c527a450ccf8bd73f443db66ff94d7f2d2648fcbffc1add77a3d538630275",
+      "0x0d287d1e670da9886f1d17b386c66f7d877d2183470646f17c2a7e05e4d53ad3"
+    ],
+    "b": [
+      [
+        "0x051347c9e7b58478e67f89580d4015696bb3fcb51d4c64c23d029320c86e721f",
+        "0x2ebbf15548aed7b42184dc101f8432f48ed5ba3e7bda28145b20dc3e59a5e823"
+      ],
+      [
+        "0x06403caf14dde8d68b9376fdd61511d8ff03b30f8834a371a43c0c2c5bab40bd",
+        "0x2ffaaa3013c258d22187c7ec7fed0eaddc7b0a4c24faa1fc101c482c5b7b0765"
+      ]
+    ],
+    "c": [
+      "0x13663b299975937608eb2b0b3a86a67aa43a4fbdfdb4a3e1cf99ace41b2766c2",
+      "0x0bb6dc802656f2fe94a9878fb4f501362be1b4717c13f674bb3854d851caeb4e"
+    ]
+  };
+
+  var proof10 = {
+    "a": [
+      "0x2d5b28d53f26658cc8fd5901a22377847c9f43e14f61a752a7cf0ded2194ada7",
+      "0x01f5d822c333f768ecbc064088b4141caef60945d0f938637005258ed0144cc3"
+    ],
+    "b": [
+      [
+        "0x13fb4390a745a0ac9be59875fbf89b2f3c0d3ca0f1f8e1e06af6ad9cde205947",
+        "0x216fcaf8e58b26ac9043c07ee41a088d42a4bf30a9bb688b296887c53bd4736d"
+      ],
+      [
+        "0x20afb0a1ca4396f77768cb10e0ed445a5ab4221182caf7688ac312b0c975e080",
+        "0x2069c0eb2af18d0b1c519e230f6f8f15e4ea8a58662d07bc8f5d4d6e16928fca"
+      ]
+    ],
+    "c": [
+      "0x08cc811ce7587bdd473e07d2d801c9f51fc5d493680448e713d54b68aa8bb544",
+      "0x1b66739a3c9eda285ecb7948b489727e39cfc0eb43bef2d15ef79a21df0f11e9"
+    ]
+  };
+
+
 var input =  ["0x0000000000000000000000000000000000000000000000000000000000000001"];
 
 
@@ -237,7 +344,7 @@ async function main() {
     // Creatures issued directly to the owner.
     for (var i = 0; i < NUM_CREATURES; i++) {
       const result = await nftContract.methods
-        .mintNFT(OWNER_ADDRESS, 9000, proof.a, proof.b, proof.c, input)
+        .mintNFT(OWNER_ADDRESS, 9009, proof10.a, proof10.b, proof10.c, input)
         .send({ from: OWNER_ADDRESS });
       console.log("Minted NFT. Transaction: " + result.transactionHash);
     }
