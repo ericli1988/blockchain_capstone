@@ -36,7 +36,12 @@ Token 10: 0xfd1fa3208165a11660ae5a857d0e12590e07cdfc8efec5c6643b441fb3c7006b (To
 
 store: https://testnets.opensea.io/collection/bitland-nrm45hclp0
 
-
+Bought
+9000 tx: https://rinkeby.etherscan.io/tx/0x7be55af0db57da3f009c4e9239f5fa6f2e886510b6ee81f5599ea05443e35acd
+9001 tx: https://rinkeby.etherscan.io/tx/0xb4f840b47a2c9a838793199184df34afc38793756970af8eed9bfb1efeff233d
+9002 tx: https://rinkeby.etherscan.io/tx/0x99d492a0b80365f806d0eed8a1fb071323ba7426961f89d6ff224931e59e1e0f
+9003 tx: https://rinkeby.etherscan.io/tx/0x3ad7cbd7d6bd3df916b985b7132bfb6b366e1204042b1878df2f9e8952c6e479
+9004 tx: https://rinkeby.etherscan.io/tx/0x5028f7d58f72c407b65391784808db2c2ad8a8ee436da325892cfa576a76613f
 
 (Legacy)
 CustomERC721Token: 0xfBF0376c6640B5A733c2F397A99504bF47A74433
