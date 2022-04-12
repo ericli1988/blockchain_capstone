@@ -29,6 +29,17 @@ Token 8: 0x56f7c4c9b4f32fc0dbc236ae9a0dfa9a266227da91190bf2654d667e557f475e [Tok
 Token 9: 0x5d947ca83d74661c088037130a43aa1a77a7a91977a91b822ed52818edee9d97 [Token Id: 8]
 Token 10: 0x8efbb96a0d1d50aeb30bc74c3fa2468fa9e615c5f1f2b887024bdb0a10213e57 [Token Id: 9]
 
+https://testnets.opensea.io/collection/bitland-7y7r8hriur
+
+
+Deployment 
+CustomERC721Token: 0x8CB53c46e7Fef4a3beAA11371d0DF4C408FF2647
+SquareVerifier: 0x22fFB0781eF4B34f54F6ba8E74256C395b42d1a0
+SolnSquareVerifier: 0xABdb4089d3893aE0C39680c84FAd1453A8ab40bb
+
+Token 1: 0x8350c64a9020b90f11df51897ad2323f8e1154f28de8fd7478870de8b7af3e46 [Token Id: 9000]
+https://rinkeby.etherscan.io/tx/0x8350c64a9020b90f11df51897ad2323f8e1154f28de8fd7478870de8b7af3e46
+https://testnets.opensea.io/assets/0xABdb4089d3893aE0C39680c84FAd1453A8ab40bb/9000
 
 # Contract ABIs
 
